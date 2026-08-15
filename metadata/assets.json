@@ -1,0 +1,18 @@
+{
+  "profiles": {
+    "default-01": "assets/profiles/default-01.png",
+    "default-02": "assets/profiles/default-02.png",
+    "default-03": "assets/profiles/default-03.png",
+    "default-04": "assets/profiles/default-04.png"
+  },
+  "ranks": {
+    "recruit": "assets/ranks/recruit.png",
+    "soldier": "assets/ranks/soldier.png",
+    "champion": "assets/ranks/champion.png",
+    "legend": "assets/ranks/legend.png"
+  },
+  "icons": {
+    "tok": "assets/icons/TOK.png",
+    "sp": "assets/icons/SP.png"
+  }
+}
