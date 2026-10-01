@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"
+     data-author="ThePsychof" data-company="TOK" data-license="All-Rights-Reserved">
+    <title>founder</title>
+    <desc>© 2026 ThePsychof / TOK. All rights reserved.</desc>
+    <defs>
+        <linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe27a"/><stop offset="1" stop-color="#c98a14"/></linearGradient>
+        <radialGradient id="b" cx=".5" cy=".35" r=".8"><stop offset="0" stop-color="#2a2058"/><stop offset="1" stop-color="#0f0b24"/></radialGradient>
+    </defs>
+    <circle cx="32" cy="32" r="30" fill="url(#b)" stroke="url(#r)" stroke-width="3"/>
+    <circle cx="32" cy="32" r="25.5" fill="none" stroke="#ffe27a" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 3"/>
+    <rect x="17" y="27" width="9" height="20" fill="url(#r)"/>
+    <rect x="38" y="27" width="9" height="20" fill="url(#r)"/>
+    <rect x="26" y="33" width="12" height="14" fill="#e0a526"/>
+    <path d="M17 27v-4h2.5v2h1.5v-2h2v2h1.5v-2H26v4zM38 27v-4h2.5v2h1.5v-2h2v2h1.5v-2H47v4z" fill="url(#r)"/>
+    <path d="M29 47v-6a3 3 0 0 1 6 0v6z" fill="#1a1236"/>
+    <path d="M32 33V15" stroke="#fff4c2" stroke-width="1.6" stroke-linecap="round"/>
+    <path d="M32 15l11 4-11 4z" fill="#ff5a5a" stroke="#8c1f1f" stroke-width="1" stroke-linejoin="round"/>
+    <path d="M20 51h24" stroke="url(#r)" stroke-width="2" stroke-linecap="round"/>
+</svg>

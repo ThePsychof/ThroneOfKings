@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"
+     data-author="ThePsychof" data-company="TOK" data-license="All-Rights-Reserved">
+    <title>recruiter</title>
+    <desc>© 2026 ThePsychof / TOK. All rights reserved.</desc>
+    <defs>
+        <linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7ff0d8"/><stop offset="1" stop-color="#1f9c85"/></linearGradient>
+        <radialGradient id="b" cx=".5" cy=".35" r=".8"><stop offset="0" stop-color="#103a36"/><stop offset="1" stop-color="#06161a"/></radialGradient>
+    </defs>
+    <circle cx="32" cy="32" r="30" fill="url(#b)" stroke="url(#r)" stroke-width="3"/>
+    <circle cx="32" cy="32" r="25.5" fill="none" stroke="#7ff0d8" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 3"/>
+    <circle cx="25" cy="26" r="6" fill="#d9fff6"/>
+    <path d="M13 47c0-8 5-12 12-12s12 4 12 12z" fill="#d9fff6"/>
+    <circle cx="42" cy="28" r="5" fill="#7ff0d8"/>
+    <path d="M33 47c0-7 4-10 9-10s9 3 9 10z" fill="#7ff0d8"/>
+    <circle cx="47" cy="17" r="6.5" fill="#ffe27a" stroke="#8a5a0a" stroke-width="1"/>
+    <path d="M47 13.5v7M43.5 17h7" stroke="#5a3a05" stroke-width="2" stroke-linecap="round"/>
+</svg>

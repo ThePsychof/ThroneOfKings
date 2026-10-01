@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"
+     data-author="ThePsychof" data-company="TOK" data-license="All-Rights-Reserved">
+    <title>wins_100</title>
+    <desc>© 2026 ThePsychof / TOK. All rights reserved.</desc>
+    <defs>
+        <linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe27a"/><stop offset="1" stop-color="#c98a14"/></linearGradient>
+        <radialGradient id="b" cx=".5" cy=".35" r=".8"><stop offset="0" stop-color="#33250a"/><stop offset="1" stop-color="#140e03"/></radialGradient>
+    </defs>
+    <circle cx="32" cy="32" r="30" fill="url(#b)" stroke="url(#r)" stroke-width="3"/>
+    <circle cx="32" cy="32" r="25.5" fill="none" stroke="#ffe27a" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 3"/>
+    <path d="M32 12 L47 18 V32 C47 41 40 47 32 51 C24 47 17 41 17 32 V18 Z" fill="#0d0a1c" stroke="url(#r)" stroke-width="2.5" stroke-linejoin="round"/>
+    <text x="32" y="38" text-anchor="middle" font-family="Georgia,'Times New Roman',serif" font-weight="bold" font-size="14" fill="#ffe27a">100</text>
+    <path d="M22 20 L32 16 L42 20" fill="none" stroke="#ffe27a" stroke-opacity=".5" stroke-width="1.5" stroke-linecap="round"/>
+</svg>

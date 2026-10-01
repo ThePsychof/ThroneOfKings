@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"
+     data-author="ThePsychof" data-company="TOK" data-license="All-Rights-Reserved">
+    <title>telegram_linked</title>
+    <desc>© 2026 ThePsychof / TOK. All rights reserved.</desc>
+    <defs>
+        <linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7fd0ff"/><stop offset="1" stop-color="#1f7fc4"/></linearGradient>
+        <radialGradient id="b" cx=".5" cy=".35" r=".8"><stop offset="0" stop-color="#12395a"/><stop offset="1" stop-color="#07182a"/></radialGradient>
+    </defs>
+    <circle cx="32" cy="32" r="30" fill="url(#b)" stroke="url(#r)" stroke-width="3"/>
+    <circle cx="32" cy="32" r="25.5" fill="none" stroke="#7fd0ff" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 3"/>
+    <path d="M13 31L51 16l-7 33-11-9-6 7-1-10z" fill="#fff"/>
+    <path d="M26 37l18-17-14 14" fill="#bfe3f7"/>
+    <path d="M13 31L51 16" stroke="#fff" stroke-width="1" stroke-linecap="round"/>
+</svg>

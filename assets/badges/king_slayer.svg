@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"
+     data-author="ThePsychof" data-company="TOK" data-license="All-Rights-Reserved">
+    <title>king_slayer</title>
+    <desc>© 2026 ThePsychof / TOK. All rights reserved.</desc>
+    <defs>
+        <linearGradient id="r" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7a7a"/><stop offset="1" stop-color="#a01c1c"/></linearGradient>
+        <radialGradient id="b" cx=".5" cy=".35" r=".8"><stop offset="0" stop-color="#3a1018"/><stop offset="1" stop-color="#14060a"/></radialGradient>
+    </defs>
+    <circle cx="32" cy="32" r="30" fill="url(#b)" stroke="url(#r)" stroke-width="3"/>
+    <circle cx="32" cy="32" r="25.5" fill="none" stroke="#ff7a7a" stroke-opacity=".35" stroke-width="1" stroke-dasharray="2 3"/>
+    <path d="M15 42L12 23l11 8 9-15 9 15 11-8-3 19z" fill="url(#r)" stroke="#6b4a08" stroke-width="1.2" stroke-linejoin="round" opacity=".9"/>
+    <path d="M15 42h34v5H15z" fill="#d4961a" stroke="#6b4a08" stroke-width="1.2"/>
+    <path d="M50 11L24 52" stroke="#2a0a0a" stroke-width="7" stroke-linecap="round"/>
+    <path d="M50 11L24 52" stroke="#e8f1f5" stroke-width="4" stroke-linecap="round"/>
+    <path d="M18 40l10 6" stroke="#ff3b3b" stroke-width="2.5" stroke-linecap="round"/>
+    <circle cx="22" cy="53" r="2" fill="#ff3b3b"/>
+    <circle cx="29" cy="56" r="1.5" fill="#ff3b3b"/>
+</svg>
