@@ -16,7 +16,6 @@ Official public resources, documentation, assets, and releases for TOK.
 
 **Throne of Kings (TOK)** is a strategy card game inspired by the legendary tales of Persian mythology.
 
-Build your deck.  
 Command legendary warriors.  
 Rise through the ranks.
 
